@@ -1,0 +1,4 @@
+2019-03-20T07:29:54+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/js_composer/include/params/iconpicker/iconpicker.php on line 2521
+
+2019-03-20T07:29:54+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-includes/class-wp-customize-manager.php on line 974
+

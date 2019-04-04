@@ -1,0 +1,18 @@
+2019-03-28T12:42:37+00:00 CRITICAL Out of memory (allocated 62914560) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 442
+
+2019-03-28T12:43:33+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/image-gallery/image-gallery.php on line 111
+
+2019-03-28T13:14:40+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/parallax/parallax.php on line 1
+
+2019-03-28T14:20:29+00:00 CRITICAL Out of memory (allocated 39845888) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/parallax/parallax.php on line 1
+
+2019-03-28T15:53:40+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/parallax/parallax.php on line 1
+
+2019-03-28T16:12:55+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 266240 bytes) in /var/www/html/wordpress/wp-includes/pomo/streams.php on line 113
+
+2019-03-28T17:12:38+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 524288 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 1466
+
+2019-03-28T17:16:01+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 1972
+
+2019-03-28T17:22:48+00:00 CRITICAL Out of memory (allocated 46137344) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 442
+

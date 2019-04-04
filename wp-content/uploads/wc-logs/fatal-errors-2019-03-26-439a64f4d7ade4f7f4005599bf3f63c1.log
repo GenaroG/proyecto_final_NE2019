@@ -1,0 +1,76 @@
+2019-03-26T01:51:41+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 36864 bytes) in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/lib/mkd.icons/mkd.ionicons.php on line 22
+
+2019-03-26T03:19:39+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 219
+
+2019-03-26T03:33:12+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 219
+
+2019-03-26T03:45:26+00:00 CRITICAL Out of memory (allocated 69206016) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-admin/includes/media.php on line 1701
+
+2019-03-26T03:51:54+00:00 CRITICAL Out of memory (allocated 81788928) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 219
+
+2019-03-26T03:56:25+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-admin/includes/post.php on line 1878
+
+2019-03-26T03:58:46+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 192512 bytes) in /var/www/html/wordpress/wp-includes/functions.php on line 3628
+
+2019-03-26T03:59:47+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-admin/includes/media.php on line 1701
+
+2019-03-26T04:10:55+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-admin/includes/media.php on line 1701
+
+2019-03-26T04:18:56+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/woocommerce-services/classes/class-wc-connect-help-view.php on line 334
+
+2019-03-26T04:20:18+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-admin/includes/media.php on line 1701
+
+2019-03-26T04:20:22+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 73728 bytes) in /var/www/html/wordpress/wp-includes/plugin.php on line 111
+
+2019-03-26T04:24:54+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 73728 bytes) in /var/www/html/wordpress/wp-includes/plugin.php on line 111
+
+2019-03-26T04:36:03+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 12288 bytes) in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/lib/mkd.layout3.php on line 203
+
+2019-03-26T04:39:07+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/functions.php on line 446
+
+2019-03-26T04:42:32+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 186
+
+2019-03-26T04:53:05+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 219
+
+2019-03-26T12:17:27+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/icon-with-text/icon-with-text.php on line 263
+
+2019-03-26T12:17:51+00:00 CRITICAL Out of memory (allocated 44040192) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-payment-details.php on line 279
+
+2019-03-26T12:18:44+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 442
+
+2019-03-26T12:18:47+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 442
+
+2019-03-26T12:20:41+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 442
+
+2019-03-26T12:21:05+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/icon-with-text/icon-with-text.php on line 263
+
+2019-03-26T12:22:36+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/icon-with-text/icon-with-text.php on line 263
+
+2019-03-26T12:22:36+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/icon/icon.php on line 126
+
+2019-03-26T12:26:13+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 4096 bytes) in /var/www/html/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 724
+
+2019-03-26T12:30:07+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 266240 bytes) in /var/www/html/wordpress/wp-includes/pomo/streams.php on line 113
+
+2019-03-26T12:32:28+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/pomo/mo.php on line 323
+
+2019-03-26T12:32:28+00:00 CRITICAL Out of memory (allocated 37748736) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 442
+
+2019-03-26T12:32:37+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 442
+
+2019-03-26T12:34:01+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/icon-with-text/icon-with-text.php on line 263
+
+2019-03-26T12:34:01+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/icon-with-text/icon-with-text.php on line 263
+
+2019-03-26T12:34:54+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 4096 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 1633
+
+2019-03-26T12:37:17+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-admin/includes/media.php on line 2448
+
+2019-03-26T12:37:45+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/icon-with-text/icon-with-text.php on line 263
+
+2019-03-26T12:38:49+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/icon-with-text/icon-with-text.php on line 263
+
+2019-03-26T12:39:04+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 266240 bytes) in /var/www/html/wordpress/wp-includes/pomo/streams.php on line 113
+
+2019-03-26T12:39:26+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/icon-with-text/icon-with-text.php on line 263
+

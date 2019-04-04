@@ -1,0 +1,96 @@
+2019-03-27T00:36:47+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 442
+
+2019-03-27T00:46:36+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/icon-with-text/icon-with-text.php on line 352
+
+2019-03-27T00:47:51+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 225280 bytes) in /var/www/html/wordpress/wp-includes/pomo/streams.php on line 205
+
+2019-03-27T00:55:44+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 135168 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 1973
+
+2019-03-27T00:55:50+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/icon-with-text/icon-with-text.php on line 207
+
+2019-03-27T00:57:24+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/html/wordpress/wp-includes/load.php:1098
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/pluggable.php(772): is_ssl()
+#1 /var/www/html/wordpress/wp-includes/pluggable.php(603): wp_parse_auth_cookie(false, '')
+#2 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_validate_auth_cookie(false)
+#3 /var/www/html/wordpress/wp-includes/plugin.php(208): WP_Hook->apply_filters(false, Array)
+#4 /var/www/html/wordpress/wp-includes/user.php(2701): apply_filters('determine_curre...', false)
+#5 /var/www/html/wordpress/wp-includes/pluggable.php(69): _wp_get_current_user()
+#6 /var/www/html/wordpress/wp-includes/l10n.php(92): wp_get_current_user()
+#7 /var/www/html/wordpress/wp-includes/l10n.php(134): get_user_locale()
+#8 /var/www/html/wordpress/wp-includes/general-template.php(722): determine_locale()
+#9 /var/www/html/wordpress/wp-includes/general-template.php(3722): get_bloginfo('language')
+#10 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-includes/load.php on line 1098
+
+2019-03-27T00:57:24+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/html/wordpress/wp-includes/load.php:1098
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/pluggable.php(772): is_ssl()
+#1 /var/www/html/wordpress/wp-includes/pluggable.php(603): wp_parse_auth_cookie(false, '')
+#2 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_validate_auth_cookie(false)
+#3 /var/www/html/wordpress/wp-includes/plugin.php(208): WP_Hook->apply_filters(false, Array)
+#4 /var/www/html/wordpress/wp-includes/user.php(2701): apply_filters('determine_curre...', false)
+#5 /var/www/html/wordpress/wp-includes/pluggable.php(69): _wp_get_current_user()
+#6 /var/www/html/wordpress/wp-includes/l10n.php(92): wp_get_current_user()
+#7 /var/www/html/wordpress/wp-includes/l10n.php(134): get_user_locale()
+#8 /var/www/html/wordpress/wp-includes/general-template.php(722): determine_locale()
+#9 /var/www/html/wordpress/wp-includes/general-template.php(3722): get_bloginfo('language')
+#10 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-includes/load.php on line 1098
+
+2019-03-27T00:57:24+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in /var/www/html/wordpress/wp-includes/load.php:1098
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/pluggable.php(772): is_ssl()
+#1 /var/www/html/wordpress/wp-includes/pluggable.php(603): wp_parse_auth_cookie(false, '')
+#2 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): wp_validate_auth_cookie(false)
+#3 /var/www/html/wordpress/wp-includes/plugin.php(208): WP_Hook->apply_filters(false, Array)
+#4 /var/www/html/wordpress/wp-includes/user.php(2701): apply_filters('determine_curre...', false)
+#5 /var/www/html/wordpress/wp-includes/pluggable.php(69): _wp_get_current_user()
+#6 /var/www/html/wordpress/wp-includes/l10n.php(92): wp_get_current_user()
+#7 /var/www/html/wordpress/wp-includes/l10n.php(134): get_user_locale()
+#8 /var/www/html/wordpress/wp-includes/general-template.php(722): determine_locale()
+#9 /var/www/html/wordpress/wp-includes/general-template.php(3722): get_bloginfo('language')
+#10 /var/www/html/wordpress/wp-inc in /var/www/html/wordpress/wp-includes/load.php on line 1098
+
+2019-03-27T02:28:06+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 442
+
+2019-03-27T02:39:48+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 36864 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/lib/google-fonts.php on line 8
+
+2019-03-27T02:41:55+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 266240 bytes) in /var/www/html/wordpress/wp-includes/pomo/streams.php on line 113
+
+2019-03-27T02:42:34+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 524288 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 1466
+
+2019-03-27T02:43:37+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 73728 bytes) in /var/www/html/wordpress/wp-includes/plugin.php on line 111
+
+2019-03-27T05:16:22+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 225280 bytes) in /var/www/html/wordpress/wp-includes/pomo/streams.php on line 205
+
+2019-03-27T05:24:19+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/admin/meta-boxes/50.header/parts/menu-area-map.php on line 121
+
+2019-03-27T05:28:44+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 73728 bytes) in /var/www/html/wordpress/wp-includes/pomo/mo.php on line 297
+
+2019-03-27T05:43:46+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 65536 bytes) in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/lib/mkd.layout2.php on line 191
+
+2019-03-27T05:51:12+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 442
+
+2019-03-27T06:15:29+00:00 CRITICAL Out of memory (allocated 54525952) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 1972
+
+2019-03-27T14:24:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/wordpress/wp-includes/class-wp-image-editor-gd.php on line 187
+
+2019-03-27T14:44:19+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/class-wp-customize-nav-menus.php on line 736
+
+2019-03-27T14:44:46+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/class-wp-customize-setting.php on line 163
+
+2019-03-27T14:45:27+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 135168 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 1973
+
+2019-03-27T14:45:45+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 266240 bytes) in /var/www/html/wordpress/wp-includes/pomo/streams.php on line 113
+
+2019-03-27T14:46:22+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 1973
+
+2019-03-27T15:14:23+00:00 CRITICAL Out of memory (allocated 37748736) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/lib/mkd.layout1.php on line 136
+
+2019-03-27T15:18:32+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 69632 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 1973
+
+2019-03-27T15:19:17+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 45056 bytes) in /var/www/html/wordpress/wp-includes/class-wp-theme.php on line 1143
+
+2019-03-27T15:49:45+00:00 CRITICAL Out of memory (allocated 44040192) (tried to allocate 147456 bytes) in /var/www/html/wordpress/wp-includes/pomo/mo.php on line 297
+
+2019-03-27T15:50:09+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 524288 bytes) in /var/www/html/wordpress/wp-content/plugins/jetpack/locales.php on line 1466
+

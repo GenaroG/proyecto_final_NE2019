@@ -1,0 +1,4 @@
+2019-04-01T15:35:11+00:00 CRITICAL Out of memory (allocated 100663296) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/meta.php on line 950
+
+2019-04-01T15:36:58+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 65536 bytes) in /var/www/html/wordpress/wp-content/plugins/mikado-core/shortcodes/clients-carousel/functions.php on line 8
+

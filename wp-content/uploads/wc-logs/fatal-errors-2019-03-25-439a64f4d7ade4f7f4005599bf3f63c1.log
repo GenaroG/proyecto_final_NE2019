@@ -1,0 +1,16 @@
+2019-03-25T01:58:34+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 53248 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 2007
+
+2019-03-25T02:17:27+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/modules/header/options-map/parts/main-navigation-map.php on line 608
+
+2019-03-25T02:36:24+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/meta.php on line 950
+
+2019-03-25T02:36:49+00:00 CRITICAL Out of memory (allocated 56623104) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/functions.php on line 446
+
+2019-03-25T02:46:00+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 24576 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 2007
+
+2019-03-25T02:55:28+00:00 CRITICAL Out of memory (allocated 56623104) (tried to allocate 24576 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 2007
+
+2019-03-25T15:31:09+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/functions.php on line 446
+
+2019-03-25T15:34:39+00:00 CRITICAL Out of memory (allocated 52428800) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 219
+

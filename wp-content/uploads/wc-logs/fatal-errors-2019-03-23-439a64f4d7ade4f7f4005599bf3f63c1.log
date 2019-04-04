@@ -1,0 +1,2 @@
+2019-03-23T22:12:20+00:00 CRITICAL Out of memory (allocated 77594624) (tried to allocate 24576 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 2007
+

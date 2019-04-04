@@ -1,0 +1,14 @@
+2019-04-02T02:06:56+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 294912 bytes) in /var/www/html/wordpress/wp-includes/pomo/mo.php on line 297
+
+2019-04-02T02:17:54+00:00 CRITICAL Out of memory (allocated 54525952) (tried to allocate 131072 bytes) in /var/www/html/wordpress/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-assets.php on line 219
+
+2019-04-02T02:34:56+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 114688 bytes) in /var/www/html/wordpress/wp-includes/pomo/streams.php on line 205
+
+2019-04-02T03:38:30+00:00 CRITICAL Out of memory (allocated 48234496) (tried to allocate 36864 bytes) in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/lib/mkd.icons/mkd.lineaicons.php on line 20
+
+2019-04-02T04:16:23+00:00 CRITICAL Out of memory (allocated 83886080) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/meta.php on line 950
+
+2019-04-02T05:23:47+00:00 CRITICAL Out of memory (allocated 58720256) (tried to allocate 139264 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 2007
+
+2019-04-02T05:50:57+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 36864 bytes) in /var/www/html/wordpress/wp-content/themes/depot-themes/depot/framework/lib/mkd.icons/mkd.lineaicons.php on line 737
+
